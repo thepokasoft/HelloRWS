@@ -14,7 +14,6 @@ public class SimpleMath {
 	@Produces(MediaType.TEXT_PLAIN)
 	public int add(@PathParam("a")int a, @PathParam("b")int b)
 	{
-		System.out.println("a:"+a+"b:"+b+"a+b" +(a+b));
 		return(a+b);
 	}
 

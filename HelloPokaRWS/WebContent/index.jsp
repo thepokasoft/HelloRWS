@@ -7,6 +7,9 @@
 <title>Hello Poka Rest WebService</title>
 </head>
 <body>
-Hello Poka Rest WebService
+Hello Rest WebService
+
+<p>use /rest/helo/{message}</p>
+<p>use /rest/math/add </p>
 </body>
 </html>
