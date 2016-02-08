@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   	
-  	
+  	<!-- http://howtodoinjava.com/jersey/jersey-2-hello-world-application-tutorial/ -->
   	<repositories>
         <repository>
             <id>maven2-repository.java.net</id>
